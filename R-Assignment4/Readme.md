@@ -3,7 +3,9 @@ Processing it to get the dimensions and the data aggregations and create graphs 
 
 The sources we used for information on fivethirtyeight data is:
 
-https://github.com/rudeboybert/fivethirtyeight/blob/master/README.md
-https://cran.r-project.org/web/packages/fivethirtyeight/vignettes/fivethirtyeight.html
-http://www.storybench.org/how-to-explore-a-dataset-from-the-fivethirtyeight-package-in-r/
+--https://github.com/rudeboybert/fivethirtyeight/blob/master/README.md
+
+--https://cran.r-project.org/web/packages/fivethirtyeight/vignettes/fivethirtyeight.html
+
+--http://www.storybench.org/how-to-explore-a-dataset-from-the-fivethirtyeight-package-in-r/
 
