@@ -9,3 +9,4 @@ The sources we used for information on fivethirtyeight data is:
 
 --http://www.storybench.org/how-to-explore-a-dataset-from-the-fivethirtyeight-package-in-r/
 
+FiveThirtyEight data helped us to do analysis and represents the analytical data in table or in graph format in R which will help us to identify the data patterns and future predictions for the subject of study. 
